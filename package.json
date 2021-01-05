@@ -10,7 +10,7 @@
     "@material-ui/icons": "^4.4.1",
     "apify": "^0.13.4",
     "aws-sdk": "^2.386.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-plugin-styled-components": "^1.6.3",
     "base-64": "^0.1.0",
     "bluebird": "^3.5.3",
