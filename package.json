@@ -47,7 +47,7 @@
     "moment-timezone": "^0.5.23",
     "mui-datatables": "^2.12.4",
     "multiparty": "^4.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "object-sizeof": "^1.2.0",
     "react": "^16.9.0",
     "react-app-rewire-mobx": "^1.0.9",
