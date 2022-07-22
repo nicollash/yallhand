@@ -32,7 +32,7 @@
     "draftjs-utils": "^0.9.4",
     "embed-video": "^2.0.4",
     "express": "^4.16.4",
-    "file-type": "^10.7.0",
+    "file-type": "^16.5.4",
     "flatpickr": "^4.5.2",
     "fs": "0.0.1-security",
     "glamor": "^2.20.40",
